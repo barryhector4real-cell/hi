@@ -1,0 +1,42 @@
+[
+    {
+        "email": "christygabi123@gmail.com",
+        "full_name": "BARNABAS SUGHTER GWABO",
+        "service": "Airtime",
+        "amount": 100,
+        "phone": "8137112935",
+        "payment_method": "Card",
+        "status": "Paid",
+        "created_at": "2026-10-28 09:16:30"
+    },
+    {
+        "email": "christygabi123@gmail.com",
+        "full_name": "BARNABAS SUGHTER GWABO",
+        "service": "Cable TV",
+        "amount": 1800,
+        "phone": "8137112935",
+        "payment_method": "Wallet",
+        "status": "Paid",
+        "created_at": "2026-10-28 09:20:17"
+    },
+    {
+        "email": "christygabi123@gmail.com",
+        "full_name": "BARNABAS SUGHTER GWABO",
+        "service": "Cable TV",
+        "amount": 1800,
+        "phone": "8137112935",
+        "payment_method": "Wallet",
+        "status": "Paid",
+        "created_at": "2026-10-28 09:20:34"
+    },
+    {
+        "email": "christygabi123@gmail.com",
+        "full_name": "BARNABAS SUGHTER GWABO",
+        "service": "Cable TV",
+        "amount": 1800,
+        "phone": "8137112935",
+        "payment_method": "Bank Transfer",
+        "status": "Paid",
+        "created_at": "2026-10-28 09:29:19"
+    }
+]
